@@ -40,42 +40,7 @@ const samseen = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamSeenX&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SamSeenX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&rank_icon=github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamSeenX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&rank_icon=github"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSeenX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSeenX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8"/>
-</picture>
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=SamSeenX&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
+<!-- Trophies and Stats are temporarily hidden due to service outage -->
 
 ## 🔥 Featured Projects
 
@@ -117,10 +82,7 @@ const samseen = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamSeenX&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamSeenX&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</picture>
+![Snake animation](https://raw.githubusercontent.com/SamSeenX/SamSeenX/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
