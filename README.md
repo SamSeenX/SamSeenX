@@ -44,7 +44,9 @@ const samseen = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamSeenX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamSeenX&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -54,14 +56,22 @@ const samseen = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamSeenX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSeenX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SamSeenX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&rank_icon=github">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamSeenX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&rank_icon=github"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSeenX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSeenX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8"/>
+</picture>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SamSeenX&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SamSeenX&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -71,21 +81,12 @@ const samseen = {
 
 <div align="center">
 
-[![DiskMan](https://github-readme-stats.vercel.app/api/pin/?username=SamSeenX&repo=DiskMan&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/SamSeenX/DiskMan)
-[![imp-cli](https://github-readme-stats.vercel.app/api/pin/?username=SamSeenX&repo=imp-cli&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/SamSeenX/imp-cli)
-
-[![ComfyUI_SSStereoscope](https://github-readme-stats.vercel.app/api/pin/?username=SamSeenX&repo=ComfyUI_SSStereoscope&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/SamSeenX/ComfyUI_SSStereoscope)
-[![ScriptMark](https://github-readme-stats.vercel.app/api/pin/?username=SamSeenX&repo=ScriptMark&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/SamSeenX/ScriptMark)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SamSeenX/SamSeenX/output/github-contribution-grid-snake-dark.svg)
+| Project | Description |
+|---------|-------------|
+| 🖥️ **[DiskMan](https://github.com/SamSeenX/DiskMan)** | macOS disk space analyzer & cleanup tool |
+| 🖼️ **[imp-cli](https://github.com/SamSeenX/imp-cli)** | CLI tool for batch image optimization |
+| 🔲 **[ComfyUI_SSStereoscope](https://github.com/SamSeenX/ComfyUI_SSStereoscope)** | 3D stereoscopic image nodes for ComfyUI |
+| ✍️ **[ScriptMark](https://github.com/SamSeenX/ScriptMark)** | Markdown-based script writing tool |
 
 </div>
 
@@ -112,11 +113,14 @@ const samseen = {
 
 ---
 
+## 📈 Contribution Graph
+
 <div align="center">
 
-### 🎵 Vibing to
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/samseen)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamSeenX&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamSeenX&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</picture>
 
 </div>
 
