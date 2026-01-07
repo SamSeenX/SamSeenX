@@ -50,9 +50,9 @@ const samseen = {
 |---------|-------------|
 | 🖥️ **[DiskMan](https://github.com/SamSeenX/DiskMan)** | macOS disk space analyzer & cleanup tool |
 | 🖼️ **[imp-cli](https://github.com/SamSeenX/imp-cli)** | CLI tool for batch image optimization |
-| 🔲 **[ComfyUI_SSStereoscope](https://github.com/SamSeenX/ComfyUI_SSStereoscope)** | 3D stereoscopic image nodes for ComfyUI |
+| 🔲 **[ComfyUI_SBS Node](https://github.com/SamSeenX/ComfyUI_SSStereoscope)** | 3D stereoscopic image nodes for ComfyUI |
 | ✍️ **[ScriptMark](https://github.com/SamSeenX/ScriptMark)** | Markdown-based script writing tool |
-| 🎼 **[BeatR](https://github.com/SamSeenX/BeatR)** | browser-based drum machine that uses the Web Audio API to synthesize drum sounds in real-time. |
+| 🎼 **[BeatR V2](https://github.com/SamSeenX/BeatR)** | browser-based drum machine that uses the Web Audio API to synthesize drum sounds in real-time. |
 
 </div>
 
