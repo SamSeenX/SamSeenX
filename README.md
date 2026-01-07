@@ -52,6 +52,7 @@ const samseen = {
 | 🖼️ **[imp-cli](https://github.com/SamSeenX/imp-cli)** | CLI tool for batch image optimization |
 | 🔲 **[ComfyUI_SSStereoscope](https://github.com/SamSeenX/ComfyUI_SSStereoscope)** | 3D stereoscopic image nodes for ComfyUI |
 | ✍️ **[ScriptMark](https://github.com/SamSeenX/ScriptMark)** | Markdown-based script writing tool |
+| 🎼 **[BeatR](https://github.com/SamSeenX/BeatR)** | browser-based drum machine that uses the Web Audio API to synthesize drum sounds in real-time. |
 
 </div>
 
